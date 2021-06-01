@@ -1,5 +1,5 @@
 module AdminHelper
-    def admin_login
-        
-    end
+    # def admin_login
+
+    # end
 end
